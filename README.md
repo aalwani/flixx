@@ -34,8 +34,8 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. I want to know how to add a button that links to a URL (the code for it)
+2. I did not fully understand how to implement Collection View
 
 ## Video Walkthrough
 
@@ -48,6 +48,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Understanding the network request and as always github errors were hard to follow
 
 ## Credits
 
@@ -55,6 +56,7 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 - http://iconmonstr.com/
+- https://icons8.com/web-app/category/all/Cinema
 
 ## License
 
