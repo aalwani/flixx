@@ -10,6 +10,7 @@ import UIKit
 
 class DetailViewController: UIViewController {
 
+    
     @IBOutlet weak var infoView: UIView!
     @IBOutlet weak var scrollView: UIScrollView!
     @IBOutlet weak var titleLabel: UILabel!
@@ -36,7 +37,7 @@ class DetailViewController: UIViewController {
             let imageRequest = NSURLRequest(URL: NSURL(string: imageUrl)!)
             
             
-            /*
+            
             self.posterImageView.setImageWithURLRequest(
                 imageRequest,
                 placeholderImage: nil,
@@ -59,7 +60,7 @@ class DetailViewController: UIViewController {
                     // do something for the failure condition
             })
             
-            */
+            
             
             
             self.posterImageView.setImageWithURLRequest(
