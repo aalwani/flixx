@@ -3,7 +3,7 @@
 
 flix is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **X** hours spent in total
+Time spent: 14 hours spent in total
 
 ## User Stories
 
@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 - [X] User sees an error message when there's a networking error.
 - [ ] Movies are displayed using a CollectionView instead of a TableView.
 - [X] User can search for a movie.
-- [ ] All images fade in as they are loading.
+- [X] All images fade in as they are loading.
 - [X] User can view the large movie poster by tapping on a cell.
 - [X] For the large poster, load the low resolution image first and then switch to the high resolution image when complete.
 - [X] Customize the selection effect of the cell.
@@ -29,6 +29,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] Scroll View for Overview
+- [X] Changed App Icon
+- [X] Implemented Tabs at the bottom
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -39,7 +41,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/7bXvpGL.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/ASRBcOd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
